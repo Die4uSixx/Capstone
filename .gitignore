@@ -1,0 +1,40 @@
+# Ignorar archivos y carpetas específicas de PyCharm
+.idea/
+*.iml
+
+# Ignorar archivos y carpetas específicas de VSCode
+.vscode/
+*.code-workspace
+
+# Ignorar archivos temporales de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos temporales de Microsoft Office
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Ignorar archivos generados por macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Iconos de Thumbnails
+._*
+
+# Archivos que almacenan información acerca del almacenamiento en volumen
+.Spotlight-V100
+.Trashes
+
+# Archivos de log de aplicación
+*.log
+
+# Archivos de backup de text editors
+*.bak
+*.swp
+*.swo
+*.tmp
+
+# Archivos de carpetas temporales de editores
+~$*
